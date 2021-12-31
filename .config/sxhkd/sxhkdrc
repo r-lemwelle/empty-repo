@@ -1,0 +1,8 @@
+super + F9
+	ksnip -r
+
+super + F11
+	st -f "Hack Nerd Font:pixelsize=20" calcurse
+
+super + F12
+	st ranger

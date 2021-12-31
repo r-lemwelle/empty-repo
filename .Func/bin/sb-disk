@@ -1,0 +1,1 @@
+df | awk '/\/dev\/sda2/ { printf " - " $5 }'
